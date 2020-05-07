@@ -1,4 +1,4 @@
-﻿# Currency-Project
+# Currency-Project
 ## Currency-Project
 ### Currency-Project
 #### Currency-Project
@@ -14,6 +14,3 @@
 [Link verme](www.google.com)
 <br>
 ![maymun](https://imgrosetta.mynet.com.tr/file/10923639/10923639-728xauto.jpg)
-
-
-# deneme başlık
